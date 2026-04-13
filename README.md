@@ -1,4 +1,4 @@
-# Nivesh AI Fintech <img src="YOUR_LOGO_LINK_HERE" alt="Nivesh AI Logo" align="right" width="120"/>
+# Nivesh AI Fintech <img src="/readme_images/logo.png" alt="Nivesh AI Logo" align="right" width="120"/>
 
 Nivesh AI is a comprehensive financial technology platform that provides a unified dashboard for managing and analyzing investment portfolios across multiple asset classes, including stocks, mutual funds, and cryptocurrencies. The platform integrates advanced AI capabilities to deliver personalized financial insights, risk assessments, and educational tools.
 
