@@ -77,8 +77,24 @@ Machine learning models analyze user behavior to provide tailored risk profiles 
 
 ### 6. Multilingual Support  
 Localized interface and AI-driven responses for diverse regional user bases.  
-
 <img src="/readme_images/multi.png" alt="Nivesh AI Logo" />
+
+### 7. Monte Carlo Profit Prediction
+
+AI-powered simulations using Monte Carlo algorithms to forecast potential investment returns and assess risk scenarios.
+
+<img src="/readme_images/monte.png" alt="Nivesh AI Logo" />
+
+### 8. Community Platform
+
+Interactive space for investors to connect, share insights, discuss strategies, and learn from each other in real time.
+<img src="/readme_images/community_platform.png" alt="Nivesh AI Logo" />
+
+### 9. Education Learning Hub
+
+Comprehensive learning platform offering curated resources, tutorials, and guides to enhance financial knowledge and decision-making skills.
+
+<img src="/readme_images/education.png" alt="Nivesh AI Logo" />
 
 ---
 
