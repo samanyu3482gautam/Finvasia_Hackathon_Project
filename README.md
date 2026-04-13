@@ -50,40 +50,35 @@ Real-time tracking and analysis of stocks, mutual funds, and cryptocurrencies in
 ### 2. AI Dost – Multilingual Financial Assistant  
 An AI-powered chatbot using OpenAI GPT-4o and Google Gemini 2.0 to answer financial queries and provide personalized insights in multiple languages.  
 
-*Add Image Here*  
-`![AI Dost](YOUR_IMAGE_LINK)`
+<img src="/readme_images/aiDost.png" alt="Nivesh AI Logo" />
 
 ---
 
 ### 3. Sandbox Trading Environment  
 A risk-free trading terminal that allows users to practice strategies while leveraging behavioral analytics.  
 
-*Add Image Here*  
-`![Sandbox Trading](YOUR_IMAGE_LINK)`
+<img src="/readme_images/sandbox1.png" alt="Nivesh AI Logo" />
 
 ---
 
 ### 4. Professional Investment Reports  
 Automated generation of detailed investment summaries and performance reports in PDF format.  
 
-*Add Image Here*  
-`![Reports](YOUR_IMAGE_LINK)`
+<img src="/readme_images/report.png" alt="Nivesh AI Logo" />
 
 ---
 
 ### 5. Personalized Risk Assessment  
 Machine learning models analyze user behavior to provide tailored risk profiles and investment recommendations.  
 
-*Add Image Here*  
-`![Risk Assessment](YOUR_IMAGE_LINK)`
+<img src="/readme_images/ai_agent2.png" alt="Nivesh AI Logo" />
 
 ---
 
 ### 6. Multilingual Support  
 Localized interface and AI-driven responses for diverse regional user bases.  
 
-*Add Image Here*  
-`![Multilingual](YOUR_IMAGE_LINK)`
+<img src="/readme_images/multi.png" alt="Nivesh AI Logo" />
 
 ---
 
