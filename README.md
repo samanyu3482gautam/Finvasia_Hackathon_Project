@@ -115,12 +115,99 @@ Ensure the following software is installed on your system before proceeding with
 
 ---
 
+
 ## Installation and Setup
 
+Follow these steps to set up the project on a local machine.
+
 ### 1. Repository Preparation
+Extract the project files or clone the repository to your local directory.
 
-Clone the repository or extract the project files and navigate to the project directory:
 
+### 2. Frontend Configuration
+Install the required Node.js dependencies and configure the environment variables.
 ```bash
-git clone https://github.com/your-username/Nivesh-AI-Fintech.git
-cd Nivesh-AI-Fintech
+# Install dependencies
+
+npm install
+
+# Create environment file
+touch .env
+```
+Open the `.env` file and populate it with the following required keys:
+```text
+AUTH0_SECRET=your_auth0_secret
+AUTH0_BASE_URL=http://localhost:3000
+AUTH0_ISSUER_BASE_URL=your_auth0_issuer_url
+AUTH0_CLIENT_ID=your_auth0_client_id
+AUTH0_CLIENT_SECRET=your_auth0_client_secret
+OPENAI_API_KEY=your_openai_api_key
+NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
+NEXT_PUBLIC_YOUTUBE_API_KEY=your_youtube_api_key
+```
+
+### 3. Backend Configuration
+Navigate to the backend directory, create a virtual environment, and install the Python dependencies.
+```bash
+# Navigate to backend
+cd backend
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+
+# Install requirements
+pip install -r requirements.txt
+
+# Create backend environment file
+touch .env
+```
+Populate the `backend/.env` file:
+```text
+PORT=8000
+MONGODB_URI=your_mongodb_uri (Optional)
+JWT_SECRET=your_jwt_secret
+ASI_API_KEY=your_asi_api_key
+```
+
+## Running the Application
+
+Both the backend and frontend servers must be running concurrently for the application to function correctly.
+
+### Start Backend Server
+From the `backend` directory (with the virtual environment activated):
+```bash
+uvicorn main:app --reload --port 8000
+```
+The API documentation will be available at `http://127.0.0.1:8000/docs`.
+
+### Start Frontend Server
+From the root directory:
+```bash
+npm run dev
+```
+The application will be accessible at `http://localhost:3000`.
+
+## Project Structure
+
+- /app: Next.js pages and application routes.
+- /components: Reusable React components.
+- /public: Static assets (images, logos).
+- /backend: FastAPI application, routers, and data models.
+- /backend/routers: Domain-specific API endpoints (stocks, crypto, portfolio).
+- /backend/Generation: Scripts for AI-driven asset generation (images, voice, video).
+
+
+## Maintenance and Updates
+
+### Adding New Dependencies
+- Frontend: `npm install <package-name>`
+- Backend: `pip install <package-name>` followed by `pip freeze > requirements.txt`
+
+### Database Management
+By default, the application uses local SQLite databases found in the `backend` folder (`portfolio.db`, `sandbox.db`, `tradeverse.db`). For production scaling, configure the `MONGODB_URI` in the backend environment variables.
