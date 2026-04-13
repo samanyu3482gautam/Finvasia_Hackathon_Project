@@ -1,6 +1,15 @@
-# Nivesh AI Fintech
+# Nivesh AI Fintech <img src="YOUR_LOGO_LINK_HERE" alt="Nivesh AI Logo" align="right" width="120"/>
 
 Nivesh AI is a comprehensive financial technology platform that provides a unified dashboard for managing and analyzing investment portfolios across multiple asset classes, including stocks, mutual funds, and cryptocurrencies. The platform integrates advanced AI capabilities to deliver personalized financial insights, risk assessments, and educational tools.
+
+---
+
+## 🔗 Important Links
+
+-  Demo Video: [Add Link Here](#)
+-  PPT Presentation: [Add Link Here](#)
+-  GitHub Repository: [Add Link Here](#)
+-  LinkedIn Video: [Add Link Here](#)
 
 ---
 
@@ -30,25 +39,53 @@ Nivesh AI empowers investors with intelligent tools to track, analyze, and optim
 
 ---
 
-## Key Features
+##  Key Features
 
-1. **Unified Dashboard**  
-   Real-time tracking and analysis of stocks, mutual funds, and cryptocurrencies in a single interface.
+### 1. Unified Dashboard  
+Real-time tracking and analysis of stocks, mutual funds, and cryptocurrencies in a single interface.  
 
-2. **AI Dost – Multilingual Financial Assistant**  
-   An AI-powered chatbot using OpenAI GPT-4o and Google Gemini 2.0 to answer financial queries and provide personalized insights in multiple languages.
+ *Add Image Here*  
+`![Unified Dashboard](YOUR_IMAGE_LINK)`
 
-3. **Sandbox Trading Environment**  
-   A risk-free trading terminal that allows users to practice strategies while leveraging behavioral analytics.
+---
 
-4. **Professional Investment Reports**  
-   Automated generation of detailed investment summaries and performance reports in PDF format.
+### 2. AI Dost – Multilingual Financial Assistant  
+An AI-powered chatbot using OpenAI GPT-4o and Google Gemini 2.0 to answer financial queries and provide personalized insights in multiple languages.  
 
-5. **Personalized Risk Assessment**  
-   Machine learning models analyze user behavior to provide tailored risk profiles and investment recommendations.
+*Add Image Here*  
+`![AI Dost](YOUR_IMAGE_LINK)`
 
-6. **Multilingual Support**  
-   Localized interface and AI-driven responses for diverse regional user bases.
+---
+
+### 3. Sandbox Trading Environment  
+A risk-free trading terminal that allows users to practice strategies while leveraging behavioral analytics.  
+
+*Add Image Here*  
+`![Sandbox Trading](YOUR_IMAGE_LINK)`
+
+---
+
+### 4. Professional Investment Reports  
+Automated generation of detailed investment summaries and performance reports in PDF format.  
+
+*Add Image Here*  
+`![Reports](YOUR_IMAGE_LINK)`
+
+---
+
+### 5. Personalized Risk Assessment  
+Machine learning models analyze user behavior to provide tailored risk profiles and investment recommendations.  
+
+*Add Image Here*  
+`![Risk Assessment](YOUR_IMAGE_LINK)`
+
+---
+
+### 6. Multilingual Support  
+Localized interface and AI-driven responses for diverse regional user bases.  
+
+*Add Image Here*  
+`![Multilingual](YOUR_IMAGE_LINK)`
 
 ---
 
@@ -106,15 +143,24 @@ The platform follows a decoupled architecture with a high-performance frontend a
 
 ## Prerequisites
 
-Ensure the following software is installed on your system before proceeding with the setup:
+Ensure the following software is installed:
 
-- Node.js (version 18.0.0 or higher)
-- Python (version 3.9 or higher)
-- npm (Node Package Manager)
-- Git (optional, for version control)
+- Node.js (version 18+)
+- Python (version 3.9+)
+- npm
+- Git (optional)
 
 ---
 
+## Installation and Setup
+
+### 1. Repository Preparation
+Clone or extract the project files.
+
+### 2. Frontend Configuration
+```bash
+npm install
+touch .env
 
 ## Installation and Setup
 
