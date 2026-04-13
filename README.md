@@ -43,7 +43,7 @@ Nivesh AI empowers investors with intelligent tools to track, analyze, and optim
 ### 1. Unified Dashboard  
 Real-time tracking and analysis of stocks, mutual funds, and cryptocurrencies in a single interface.  
 
-<img src="/readme_images/dasgboard.png" alt="Nivesh AI Logo" align="right" width="120"/>
+<img src="/readme_images/dashboard.png" alt="Nivesh AI Logo" align="right" width="120"/>
 
 ---
 
