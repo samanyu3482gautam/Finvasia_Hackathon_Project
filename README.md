@@ -7,9 +7,8 @@ Nivesh AI is a comprehensive financial technology platform that provides a unifi
 ## 🔗 Important Links
 
 -  Demo Video: https://drive.google.com/file/d/10nCb-10yLLoUu4ghXBLdFVjirvwE9jNw/view?usp=sharing
--  PPT Presentation: [Add Link Here](#)
--  GitHub Repository: [Add Link Here](#)
--  LinkedIn Video: [Add Link Here](#)
+-  PPT Presentation: https://drive.google.com/file/d/1FlgQU8qb36Ko3jSbOmRBGowiqJEWC7Om/view?usp=sharing
+-  LinkedIn Video: https://www.linkedin.com/posts/samanyu-gautam-cse-ai_hackathon-ai-fintech-ugcPost-7448306815945302016-JIFO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYjJHIBK_3b8Urw4ABpYV4EZN5O68K6bz4
 
 ---
 
