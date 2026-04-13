@@ -149,7 +149,19 @@ The platform follows a decoupled architecture with a high-performance frontend a
 - OpenRouter
 
 ---
+## APIs used 
+- AUTH0_SECRET
+- AUTH0_BASE_URL
+- AUTH0_ISSUER_BASE_URL
+- AUTH0_CLIENT_ID
+- AUTH0_CLIENT_SECRET
+- ASI_API_KEY
+- NEXT_PUBLIC_API_URL
+- NEXT_PUBLIC_BACKEND_URL
+- NEXT_PUBLIC_YOUTUBE_API_KEY
+- OPENAI_API_KEY
 
+---
 ## Prerequisites
 
 Ensure the following software is installed:
