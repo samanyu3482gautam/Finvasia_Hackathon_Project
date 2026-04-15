@@ -57,7 +57,7 @@ An AI-powered chatbot using OpenAI GPT-4o and Google Gemini 2.0 to answer financ
 ### 3. Sandbox Trading Environment  
 A risk-free trading terminal that allows users to practice strategies while leveraging behavioral analytics.  
 
-<img src="/readme_images/sandbox1.png" alt="Nivesh AI Logo" />
+<img src="/readme_images/sand.png" alt="Nivesh AI Logo" />
 
 ---
 
